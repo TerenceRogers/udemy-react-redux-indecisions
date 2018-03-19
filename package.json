@@ -1,0 +1,12 @@
+{
+  "name": "udemy-react-redux-indecisions",
+  "version": "1.0.0",
+  "description": "Udemy Complete React Web Developer Course (with Redux) - Indecisions App",
+  "main": "index.js",
+  "author": "Terence Rogers <trogers@tnlrogers.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
